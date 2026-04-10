@@ -1,5 +1,5 @@
 # Healthcare-Performance-Anomaly-Analysis-
-SQL +Excel+ Power BI Healthcare Analysis with Anomaly Detection
+SQL +Excel+ Power BI Healthcare Analysis with Anomaly Detection.
 This project focuses on analyzing healthcare data to identify revenue trends, patient distribution, and billing anomalies.
 
 
