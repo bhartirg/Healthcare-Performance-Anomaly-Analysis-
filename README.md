@@ -18,10 +18,10 @@ Admission Type Insights
 Anomaly Handling:
 Negative billing values were treated as anomalies (possible refunds or errors) and highlighted instead of being removed.
 
-Insights
+Insights:
 Revenue trends vary monthly with peak in October
 Anomalies contribute minimal revenue loss
 Adult and senior patients dominate healthcare usage
-🚀 Conclusion
 
+Conclusion:
 This dashboard helps stakeholders monitor performance and detect anomalies for better decision-making.
